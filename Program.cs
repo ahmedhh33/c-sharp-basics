@@ -12,6 +12,7 @@
         Console.Write("My BD: ");
         Console.WriteLine("6-12-1997");
         Console.WriteLine("********************* ");
+        Console.WriteLine("********************* ");
 
     }
 }
